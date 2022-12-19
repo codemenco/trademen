@@ -2,7 +2,7 @@
 
 For purchase this platform you can message us on whatsapp +1(205)724-9145 or mail us codemenco@gmail.com
 
-
+<h2>Features</h2>
 
 <ul>
 <li><strong>BTC node Integrated</strong></li>
