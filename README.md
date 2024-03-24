@@ -1,4 +1,4 @@
-# Trademen 6.4.2- Cryptocurrency Exchange, RTL Support, Support Bitcoin, ETH, ERC20, Binance, Bep20, Tron, TRC20, OMNI Layer full nodes and Coinpayment Api 
+# Trademen 6.9- Cryptocurrency Exchange, RTL Support, Support Bitcoin, ETH, ERC20, Binance, Bep20, Tron, TRC20, OMNI Layer full nodes and Coinpayment Api 
 
 For purchase this platform you can message us on whatsapp +1(205)724-9145 or mail us codemenco@gmail.com
 
@@ -44,4 +44,5 @@ For purchase this platform you can message us on whatsapp +1(205)724-9145 or mai
 <li><strong>Margin (Addons)<br></strong></li>
 <li><strong>ICO or Luanchpad (Addons)</strong></li>
 <li><strong>Android And IOS Flutter Version (Addons)</strong></li>
+<li><strong>Copytrading (Addons)</strong></li>
 </ul>
